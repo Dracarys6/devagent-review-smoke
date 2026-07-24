@@ -8,3 +8,5 @@ infrastructure.
 
 Each smoke update stays intentionally small so review comments can be traced to
 one pull-request snapshot.
+
+The final snapshot is reserved for the provider-backed review run.
